@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,7 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-
+   width="130mm"
+   height="75mm"
+   viewBox="0 0 130 75"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="233.69424"
-     inkscape:cy="918.29854"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="132.17136"
+     inkscape:cy="248.22769"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="3832"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -52,10 +52,11 @@
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-222)">
     <a
        id="a4665"
-       transform="translate(-80.610317,-28.48825)">
+       transform="translate(-83.015743,189.33641)">
       <rect
          style="fill:#e6e6e6;stroke:#000000;stroke-width:0.26000157;stroke-opacity:1"
          y="50.575207"
@@ -69,11 +70,11 @@
        id="rect12"
        width="26.790897"
        height="5.1592073"
-       x="19.821358"
-       y="26.549513" />
+       x="17.415932"
+       y="244.37418" />
     <rect
-       y="31.708719"
-       x="19.821358"
+       y="249.53339"
+       x="17.415932"
        height="5.1592073"
        width="26.790897"
        id="rect4526"
@@ -83,11 +84,11 @@
        id="rect4528"
        width="26.790897"
        height="5.1592073"
-       x="19.821358"
-       y="36.867928" />
+       x="17.415932"
+       y="254.6926" />
     <rect
-       y="42.027134"
-       x="19.821358"
+       y="259.85178"
+       x="17.415932"
        height="5.1592073"
        width="26.790897"
        id="rect4530"
@@ -97,32 +98,32 @@
        id="rect4532"
        width="26.790897"
        height="5.1592073"
-       x="19.821358"
-       y="47.18634" />
+       x="17.415932"
+       y="265.01099" />
     <rect
-       y="52.345547"
-       x="19.821358"
+       y="270.1702"
+       x="17.415932"
        height="5.1592073"
        width="26.790897"
        id="rect4534"
-       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.33884662;fill-opacity:1" />
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33884662" />
     <rect
        style="opacity:0.33800001;fill:#ffffff;stroke:#000000;stroke-width:0.33884662"
        id="rect4536"
        width="26.790897"
        height="5.1592073"
-       x="22.494053"
-       y="63.785587" />
+       x="20.088627"
+       y="281.61023" />
     <rect
-       y="68.944786"
-       x="22.494053"
+       y="286.76944"
+       x="20.088627"
        height="5.1592073"
        width="26.790897"
        id="rect4538"
        style="opacity:0.33800001;fill:#ffffff;stroke:#000000;stroke-width:0.33884662" />
     <rect
-       y="9.0148201"
-       x="21.959515"
+       y="226.83948"
+       x="19.554089"
        height="5.1592073"
        width="26.790897"
        id="rect4540"
@@ -132,64 +133,64 @@
        id="rect4542"
        width="26.790897"
        height="5.1592073"
-       x="19.821358"
-       y="21.390306" />
+       x="17.415932"
+       y="239.21497" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="51.289471"
-       y="13.104951"
+       x="48.884045"
+       y="230.92961"
        id="text4546"><tspan
          sodipodi:role="line"
          id="tspan4544"
-         x="51.289471"
-         y="13.104951"
+         x="48.884045"
+         y="230.92961"
          style="font-size:4.23333311px;stroke-width:0.26458332">Items to be released from memory</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="50.474602"
-       y="42.250805"
+       x="48.069176"
+       y="260.07547"
        id="text4546-0"><tspan
          sodipodi:role="line"
-         x="50.474602"
-         y="42.250805"
+         x="48.069176"
+         y="260.07547"
          style="font-size:4.23333311px;stroke-width:0.26458332"
          id="tspan847">Currently displayed items</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="53.975525"
-       y="69.39003"
+       x="51.570099"
+       y="287.21469"
        id="text4546-0-4"><tspan
          sodipodi:role="line"
          id="tspan4544-3-1"
-         x="53.975525"
-         y="69.39003"
+         x="51.570099"
+         y="287.21469"
          style="font-size:4.23333311px;stroke-width:0.26458332">Items to load</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8.8198943,53.116556 V 22.915099 l 2.6726957,5.479026"
+       d="m 6.4144686,270.94121 v -30.20145 l 2.6726953,5.47902"
        id="path4594"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8.8198943,22.915099 6.0712426,28.329797"
+       d="m 6.4144686,240.73976 -2.7486517,5.41469"
        id="path4596"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 18.143482,22.086957 V 17.441064"
+       d="m 15.738056,239.91161 v -4.64589"
        id="path4598"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 18.143479,17.441064 H 47.712603"
+       d="M 15.738053,235.26572 H 45.307177"
        id="path4600"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 47.712603,17.441064 -0.0313,4.645893"
+       d="m 45.307177,235.26572 -0.0313,4.64589"
        id="path4604"
        inkscape:connector-curvature="0" />
     <rect
@@ -197,27 +198,27 @@
        id="rect4688"
        width="29.525869"
        height="3.7143917"
-       x="18.143087"
-       y="55.633472" />
+       x="15.73766"
+       y="273.45813" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:0.8224299;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.82242988;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect4690"
        width="29.537821"
        height="4.6458931"
-       x="18.174784"
-       y="17.441065" />
+       x="15.769357"
+       y="235.26573" />
     <rect
        style="opacity:0.994;fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect4608"
        width="14.833458"
        height="1.3363476"
-       x="26.281279"
-       y="19.149282" />
+       x="23.875853"
+       y="236.97395" />
     <ellipse
        style="opacity:0.994;fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="path4606"
-       cx="21.377901"
-       cy="19.809349"
+       cx="18.972475"
+       cy="237.63402"
        rx="1.5367998"
        ry="1.2027128" />
   </g>
